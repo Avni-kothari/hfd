@@ -1,0 +1,24 @@
+body{
+  background-image:url("https://i2.wp.com/i.pinimg.com/originals/59/cd/f6/59cdf682bccca3a7623848179beb5fce.jpg");
+  background-size:cover;
+  text-align:center;
+
+font-size:20px;
+  color:black;
+}
+#para{
+    font-size: 50px;
+    color: black;
+    font-family: 'Tangerine', cursive;
+}
+
+img{
+    width: 500px;
+    height: 450px;
+}
+button{
+    width: 200px;
+    height: 50px;
+    background-color: red;
+    font-size: 30px;
+}
